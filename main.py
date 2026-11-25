@@ -36,6 +36,8 @@ def gate_check(text: str) -> None:
         raise ValueError("entry must be exactly one word, got %r" % text)
     if any(ch.isspace() for ch in text):
         raise ValueError("entry must contain no white space")
+    if any(ord(ch) < 0x20 or ord(ch) == 0x7F for ch in text):
+        raise ValueError("entry must not contain control characters")
     text.encode("utf-8")  # must be valid UTF-8
 
 
