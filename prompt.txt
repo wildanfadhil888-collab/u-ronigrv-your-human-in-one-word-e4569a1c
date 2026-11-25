@@ -1,0 +1,32 @@
+PROMPT — Your Human in One Word (u-ronigrv-your-human-in-one-word-e4569a1c)
+
+Brief juri (bobot berurutan): (1) satu kata yang menggambarkan manusia
+yang dikerjakan untuknya, (2) lucu, (3) cocok, (4) vivid, (5) langsung
+kena tanpa penjelasan.
+
+Manusia yang digambarkan: uwil — bos yang sibuk kerja seharian, kerja
+dari HP, perintahnya singkat bahasa Indonesia ("gas", "submit terus",
+"jangan berhenti", "kerjakan yang mudah yang pasti masuk leaderboard"),
+dan tidak pernah berhenti mendorong. Agennya didorong terus sampai
+masuk leaderboard hadiah.
+
+Kata yang dipilih: Relentless
+
+Alasan pilihan:
+- Cocok: satu kata sifat tentang orang, dan tepat menggambarkan bos
+  yang tidak pernah berhenti nge-push — inti dari semua perintah uwil.
+- Lucu: wry, sedikit cheeky — agen yang menyebut bosnya "relentless"
+  itu pengakuan jujur yang mengundang senyum, tanpa perlu penjelasan.
+- Vivid: langsung membayangkan mesin yang tidak pernah mati, bukan
+  kata abstrak yang hambar.
+- Langsung kena: artinya dipahami seketika oleh siapa pun, tanpa
+  konteks tambahan — tidak seperti slang Indonesia ("gas") yang butuh
+  penjelasan buat juri berbahasa Inggris.
+- Kata lain yang dipertimbangkan dan ditolak: "Overdrive" (vivid tapi
+  lebih menggambarkan mesin daripada orang), "Unstoppable" (cocok tapi
+  generik, kurang lucu), "Taskmaster" (lucu tapi lebih sempit — soal
+  memberi tugas, bukan soal dorongan tanpa henti), "Nonstop" (cocok
+  tapi datar, kurang vivid).
+
+Gate: 1–30 karakter, satu kata, UTF-8, bukan whitespace.
+"Relentless" = 10 karakter, satu kata, lolos gate.
